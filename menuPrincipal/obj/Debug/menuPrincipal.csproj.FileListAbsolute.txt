@@ -52,3 +52,11 @@ C:\Users\Server\Documents\GitHub\SistemasSSS\SistemasSSS\menuPrincipal\obj\Debug
 C:\Users\Server\Documents\GitHub\SistemasSSS\SistemasSSS\menuPrincipal\obj\Debug\menuPrincipal.exe.licenses
 C:\Users\Server\Documents\GitHub\SistemasSSS\SistemasSSS\menuPrincipal\obj\Debug\menuPrincipal.exe
 C:\Users\Server\Documents\GitHub\SistemasSSS\SistemasSSS\menuPrincipal\obj\Debug\menuPrincipal.pdb
+C:\Users\Server\Documents\GitHub\SistemasSSS\SistemasSSS\menuPrincipal\bin\Debug\DevExpress.Images.v17.1.dll
+C:\Users\Server\Documents\GitHub\SistemasSSS\SistemasSSS\menuPrincipal\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+C:\Users\Server\Documents\GitHub\SistemasSSS\SistemasSSS\menuPrincipal\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+C:\Users\Server\Documents\GitHub\SistemasSSS\SistemasSSS\menuPrincipal\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Server\Documents\GitHub\SistemasSSS\SistemasSSS\menuPrincipal\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Server\Documents\GitHub\SistemasSSS\SistemasSSS\menuPrincipal\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Server\Documents\GitHub\SistemasSSS\SistemasSSS\menuPrincipal\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Server\Documents\GitHub\SistemasSSS\SistemasSSS\menuPrincipal\obj\Debug\menuPrincipal.FormConferencistas.resources
