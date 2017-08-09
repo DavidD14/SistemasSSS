@@ -1,6 +1,6 @@
 ﻿namespace menuPrincipal
 {
-    partial class TipoDeEvento
+    partial class tipo_de_evento
     {
         /// <summary>
         /// Required designer variable.
@@ -30,7 +30,7 @@
         {
             this.components = new System.ComponentModel.Container();
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.Text = "TipoDeEvento";
+            this.Text = "tipo_de_evento";
         }
 
         #endregion

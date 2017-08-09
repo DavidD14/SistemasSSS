@@ -11,9 +11,9 @@ using DevExpress.XtraEditors;
 
 namespace menuPrincipal
 {
-    public partial class TipoDeEvento : DevExpress.XtraEditors.XtraForm
+    public partial class tipo_de_evento : DevExpress.XtraEditors.XtraForm
     {
-        public TipoDeEvento()
+        public tipo_de_evento()
         {
             InitializeComponent();
         }
