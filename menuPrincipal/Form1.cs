@@ -15,14 +15,5 @@ namespace menuPrincipal
         {
             InitializeComponent();
         }
-
-        private void barButtonItem2_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
-        {
-            FormConferencistas frm = new FormConferencistas();
-            frm.MdiParent = this;
-            frm.Show();
-
-            barButtonItem2.Enabled = false;
-        }
     }
 }
